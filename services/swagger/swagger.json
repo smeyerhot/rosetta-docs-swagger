@@ -83,7 +83,7 @@
        }
     },
     "definitions": {
-       "Default": {
+       "Pet": {
           "type": "object",
           "required": [
              "name",

@@ -1,3 +1,11 @@
 must restart nginx container for changes to take effect 
 
 docker-compose restart nginx
+docker-compose restart swagger
+
+may need to restart the entire server
+
+docker-compose stop
+docker-compose down
+
+
