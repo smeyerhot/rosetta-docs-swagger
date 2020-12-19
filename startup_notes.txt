@@ -1,0 +1,3 @@
+must restart nginx container for changes to take effect 
+
+docker-compose restart nginx
